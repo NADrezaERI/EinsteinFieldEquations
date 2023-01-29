@@ -1,6 +1,6 @@
 # EinsteinFieldEquations
-This program will compute some key ingredients of standard general relativity.
-Using it is straightforward, you only need to input Coordinates, Metric Tensor and Stress-Energy Tensor in input section and the code shows
+This code is written with Mathematica 13.2 and it will compute some key ingredients of standard general relativity.
+Using it is straightforward, you only need to input Coordinates, Metric Tensor and Stress-Energy Tensor in input section and after you run the entire notebook it will show
 
 1 - Metric Tensor
 
