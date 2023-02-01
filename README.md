@@ -28,7 +28,7 @@ Using it is straightforward, you only need to input Coordinates, Metric Tensor a
 
 ![image](https://user-images.githubusercontent.com/123824614/216169521-2d53f8cf-ac0a-404d-a1b0-ea252061bc4c.png)
 
-8 - Einstein Field Equations
+9 - Einstein Field Equations
 
 ![image](https://user-images.githubusercontent.com/123824614/215311263-4b9d3f9c-e733-446a-941f-e5b30cd0ab4c.png)
 
