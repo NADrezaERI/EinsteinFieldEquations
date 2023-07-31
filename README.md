@@ -1,6 +1,6 @@
 # EinsteinFieldEquations
 This code is written with Mathematica 13.2 and will compute some key ingredients of standard general relativity. 
-Using it is straightforward, you only need to input Coordinates, Metric Tensor and Stress-Energy Tensor in input section and after you run the entire notebook it will show
+Using it is straightforward, you only need to input Coordinates, Metric Tensor, and Stress-Energy Tensor in the input section and after you run the entire notebook it will show
 
 1 - Metric Tensor
 
@@ -36,4 +36,8 @@ where
 
 ![image](https://user-images.githubusercontent.com/123824614/215311279-17d510d7-59f6-4c6b-a0b2-43a5992bce82.png)
 
-Please make it better by your suggesions and comments.
+10 - Geodesic equations
+
+![image](https://wikimedia.org/api/rest_v1/media/math/render/svg/9c4661418815c10a169fc8a0944300ea8a850225)
+
+Please make it better with your suggestions and comments.
