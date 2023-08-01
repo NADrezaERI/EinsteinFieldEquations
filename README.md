@@ -1,5 +1,5 @@
 # EinsteinFieldEquations
-This code is written with Mathematica 13.3 and will compute some key ingredients of standard general relativity. 
+This code is written with Mathematica 13.2 and improved by version 13.3. It will compute some key ingredients of standard general relativity. 
 Using it is straightforward, you only need to input Coordinates, Metric Tensor, and Stress-Energy Tensor in the input section and after you run the entire notebook it will show
 
 1 - Metric Tensor
